@@ -1,4 +1,4 @@
-"""Record microphone audio, transcribe with Whisper, and correct with an LLM."""
+"""Record audio, transcribe with Whisper, and correct or edit text with an LLM."""
 
 import getpass
 import io

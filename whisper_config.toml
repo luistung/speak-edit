@@ -1,4 +1,4 @@
-# 在下面的三引号之间填写 prompt，可以写多行。留空表示不提供提示。
+# Whisper 提示词。在下面的三引号之间填写，可以写多行。留空表示不提供提示。
 # 示例内容：今天讨论 OpenAI、Whisper 和 MaxCompute 的接口。
 # 保存后重新启动 whisper_recorder.py 生效。需要 Python 3.11 或更新版本。
 prompt = """
